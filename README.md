@@ -2,4 +2,4 @@
 
 ### Sponsored By :
 
-![Binance Smart Chain](https://p2eprofessor.com/blockchains/bsc/)
+![Binance Smart Chain](https://p2eprofessor.com/wp-content/uploads/2022/02/bsc.png)
