@@ -1,4 +1,5 @@
 # shitcoin_source_documentary
+## do you know how to find out the source code is scam or cap???
 
 ### Sponsored By :
 
