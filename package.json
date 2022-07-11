@@ -1,0 +1,25 @@
+{
+  "name": "shitcoin",
+  "version": "1.0.0",
+  "description": "scam contract/rug pull",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungkrishna-code/shitcoin_source_documentary.git"
+  },
+  "keywords": [
+    "SHIT"
+  ],
+  "author": "agungkrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungkrishna-code/shitcoin_source_documentary/issues"
+  },
+  "homepage": "https://github.com/agungkrishna-code/shitcoin_source_documentary#readme",
+  "dependencies": {
+    "solc": "^0.8.15"
+  }
+}
