@@ -2,9 +2,9 @@
   "name": "shitcoin",
   "version": "1.0.2",
   "description": "",
-  "main": "null",
+  "main": "",
   "scripts": {
-    "test": "null"
+    "test": ""
   },
   "repository": {
     "type": "git",
