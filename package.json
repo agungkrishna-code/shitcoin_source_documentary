@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/agungkrishna-code/shitcoin_source_documentary#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.0",
+    "@openzeppelin/contracts": "^4.7.1",
     "solc": "^0.8.15"
   }
 }
