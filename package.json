@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/agungkrishna-code/shitcoin_source_documentary#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.1",
+    "@openzeppelin/contracts": "^4.7.2",
     "ethereumjs-util": "^7.1.5",
     "solc": "^0.8.15",
-    "truffle": "^5.5.23"
+    "truffle": "^5.5.24"
   }
 }
