@@ -114,7 +114,7 @@ interface IBeacon {
 
 // File: ../../../.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.1.0/contracts/utils/Address.sol
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.15;
 
 /**
  * @dev Collection of functions related to the address type
