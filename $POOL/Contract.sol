@@ -2,7 +2,7 @@
  *Submitted for verification at BscScan.com on 2021-01-27
  */
 
-pragma solidity ^0.8.15;
+pragma solidity ^0.8.16;
 
 library SafeMath {
     function mul(uint256 a, uint256 b) internal pure returns (uint256) {
