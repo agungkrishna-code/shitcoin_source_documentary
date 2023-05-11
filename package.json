@@ -23,6 +23,6 @@
     "@openzeppelin/contracts": "^4.8.3",
     "ethereumjs-util": "^7.1.5",
     "sol2uml": "^2.5.4",
-    "solc": "^0.8.19"
+    "solc": "^0.8.20"
   }
 }
