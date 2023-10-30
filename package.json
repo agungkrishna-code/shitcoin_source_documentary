@@ -22,7 +22,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "ethereumjs-util": "^7.1.5",
-    "sol2uml": "^2.5.14",
-    "solc": "^0.8.21"
+    "sol2uml": "^2.5.16",
+    "solc": "^0.8.22"
   }
 }
